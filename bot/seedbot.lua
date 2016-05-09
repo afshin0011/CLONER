@@ -227,6 +227,7 @@ function create_config( )
     "info",
     "admin"
     "azan",
+    "text-sticker",
     sudo_users = {120395246,103649648,143723991,111020322,0,tonumber(117314950)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
