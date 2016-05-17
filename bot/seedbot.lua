@@ -230,6 +230,8 @@ function create_config( )
     "text-sticker",
     "anti_fwd",
     "weather",
+    "saveplug",
+    "anti_fwd",
     sudo_users = {120395246,103649648,143723991,111020322,0,tonumber(117314950)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
